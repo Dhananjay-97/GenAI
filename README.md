@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Certification Course for Beginners 🤖
+# 🚀 Generative AI Course for Beginners 🤖
 
 Welcome to **Machine Learning Certification Course for Beginners**! Let's dive into what this course offers:
 
