@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Certification Course for Beginners 🤖
 
-Welcome to our **Machine Learning Certification Course for Beginners**! Let's dive into what this course offers:
+Welcome to **Machine Learning Certification Course for Beginners**! Let's dive into what this course offers:
 
 ## 🎯 Objective
 
@@ -26,4 +26,4 @@ Learn Python basics, machine learning essentials, model building, and feature en
 
 ## 🙋‍♂️ Need Help?
 
-Don't hesitate to reach out on the discussion forum for assistance! We're here to help you succeed. Feel free to ask questions beyond the course scope too! 🤔💬
+Don't hesitate to reach out for assistance! Feel free to ask questions beyond the course scope too! 🤔💬
