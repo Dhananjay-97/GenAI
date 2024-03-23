@@ -1,4 +1,4 @@
-Welcome to this course on Machine Learning Certification Course for Beginners. Below is a brief introduction of this course to get you acquainted with what you will be learning.
+# Welcome to this course on Machine Learning Certification Course for Beginners. Below is a brief introduction of this course to get you acquainted with what you will be learning.
 
 OBJECTIVE OF THE COURSE
 In this free machine learning certification course, you will learn Python, the basics of machine learning, how to build machine learning models, and feature engineering techniques to improve the performance of your machine learning models. Along with this, you will also learn different evaluation metrics to evaluate the performance of your models.
