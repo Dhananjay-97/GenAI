@@ -32,11 +32,7 @@ Don't hesitate to reach out for assistance! Feel free to ask questions beyond th
 - Introduction to Data Science and ML
 - Setting up your system
 - Python Essentials
-- Data Manipulation & Visualization
-- Machine Learning Lifecycle!
-
-- Building Predictive Models
-- Model Evaluation & Selection
-- Feature Engineering
-- Project: NYC Taxi Trip Duration Prediction
-
+- Machine Learning
+- Natural Language Processing
+- Deep Learning
+- Generative AI
