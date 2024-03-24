@@ -71,11 +71,11 @@ An almost incomprehensible amount of data is created every day. And each year, f
 
 ## How Much Data Is Generated Every Day?
 
-According to the latest estimates, 328.77 million terabytes of data are created each day.
+According to the latest estimates, **328.77 million terabytes** of data are created each day.
 
 (“Created” includes data that is newly generated, captured, copied, or consumed).
 
-In zettabytes, that equates to 120 zettabytes per year, 10 zettabytes per month, 2.31 zettabytes per week, or 0.33 zettabytes every day.
+In zettabytes, that equates to **120 zettabytes** per year, **10 zettabytes** per month, **2.31 zettabytes** per week, or **0.33 zettabytes** every day.
 
 To put that into perspective, this is how much data is generated per day in various units of measurement:
 
@@ -98,31 +98,31 @@ The amount of data generated annually has grown year-over-year since 2010.
 
 In fact, it is estimated that 90% of the world's data was generated in the last two years alone.
 
-In the space of 13 years, this figure has increased by an estimated 60x from just 2 zettabytes in 2010.
+In the space of 13 years, this figure has increased by an estimated 60x from just **2 zettabytes** in 2010.
 
-The 120 zettabytes generated in 2023 are expected to increase by over 150% in 2025, hitting 181 zettabytes.
+The **120 zettabytes** generated in 2023 are expected to increase by over 150% in 2025, hitting **181 zettabytes**.
 
 *Source: Statista, Bernard Marr & Co.*
 
 ## Data Creation By Category
 
-Video is responsible for over half (53.72%) of all global data traffic.
+Video is responsible for over half (**53.72%**) of all global data traffic.
 
 And social media is brimming with video content. TikTok is entirely based on videos and continues to grow its user base year-over-year.
 
-While Facebook has evolved to the point where 51% of content shared on the platform is video-based.
+While Facebook has evolved to the point where **51%** of content shared on the platform is video-based.
 
-Although public data related to Snapchat is limited, it is estimated that each snap sent requires 1MB, many of which are videos.
+Although public data related to Snapchat is limited, it is estimated that each snap sent requires **1MB**, many of which are videos.
 
-Together with social (12.69%) and gaming (9.86%), these three categories make up more than 3/4s (76.27%) of all internet data traffic.
+Together with social (**12.69%**) and gaming (**9.86%**), these three categories make up more than 3/4s (**76.27%**) of all internet data traffic.
 
 *Source: Sandvine, Domo, TechJury, iNews*
 
 ## Data Creation By Region
 
-The US has over 10x more data centers (5,388) than any other country.
+The US has over **10x more data centers (5,388)** than any other country.
 
-Germany (522), the UK (517), China (449), and Canada (336) make up the rest of the top five.
+Germany (**522**), the UK (**517**), China (**449**), and Canada (**336**) make up the rest of the top five.
 
 Here are the top 15 nations by data centers worldwide:
 
