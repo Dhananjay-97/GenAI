@@ -24,27 +24,6 @@ Natural Language Processing refers to the science of drawing insights from natur
 
 Twitter uses NLP to filter out terroristic language in tweets, while Amazon uses NLP to understand customer reviews and improve user experience.
 
-## 4. Robotics
-
-Robotics is a branch of Artificial Intelligence that focuses on different branches and applications of robots. AI Robots are artificial agents acting in a real-world environment to produce results by taking accountable actions.
-
-Sophia the humanoid is a good example of AI in robotics.
-
-## 5. Fuzzy Logic
-
-Fuzzy logic is a computing approach based on the principles of “degrees of truth” instead of the usual modern computer logic, which is boolean in nature.
-
-Fuzzy logic is used in the medical fields to solve complex problems involving decision-making. It's also used in automatic gearboxes, vehicle environment control, and more.
-
-## 6. Expert Systems
-
-An expert system is an AI-based computer system that learns and reciprocates the decision-making ability of a human expert.
-
-Expert systems use if-then logical notations to solve complex problems and are mainly used in information management, medical facilities, loan analysis, virus detection, and more.
-
-
-![Machine Learning](ml_image.jpg)
-
 **A Complete Guide to Machine Learning Algorithms**
 
 **Definition of Machine Learning:**
