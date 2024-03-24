@@ -49,6 +49,8 @@ Different Techniques used in Natural Language Processing:
 
 3. **Topic Modeling:**
    - Topic Modeling automatically identifies topics present in a text corpus by deriving hidden patterns among words in an unsupervised manner. It is useful for organizing large datasets into meaningful categories.
+     ![image](https://github.com/Dhananjay-97/GenAI/assets/125077594/4fee2b16-7c3e-415f-b6f9-f9c2bc75a565)
+
    
    - **Algorithms for Topic Modeling:**
      a. Latent Dirichlet Allocation (LDA): Assumes documents are produced from a mixture of topics and generates words based on their probability distribution.
@@ -59,5 +61,45 @@ Different Techniques used in Natural Language Processing:
    
 5. **Sequence Modeling:**
    - Sequence Modeling, a technique in deep learning, is used to process sequence data such as music lyrics, sentence translation, and chatbot responses. Since natural language is inherently sequential, this technique is extensively used in NLP.
+
+The Steps required to build a Natural Language Processing Model:
+
+A) Preprocessing:
+1. **Cleaning:**
+   a. HTML tags: Remove HTML tags from text data.
+   b. Unicode and other symbols: Handle non-ASCII symbols in text data.
+   c. Removing numbers: Exclude numbers from text data.
+   d. Links: Eliminate URLs and web links from text data.
+
+2. **Tokenization:**
+   Tokenize text into minimal meaningful units, such as words or n-grams.
+
+3. **Normalization:**
+   Normalize words to their base or root form using techniques like stemming or lemmatization.
+   - Stemming: Convert words to their non-changing portions.
+   - Lemmatization: Convert words to their dictionary form.
+
+4. **Stopwords:**
+   Remove stopwords, which are common words that do not contribute much to the meaning of the text.
+
+B) Embeddings and Representations:
+1. **Bag of Words (BOW):**
+   Represent text documents by creating vectors based on the frequency of words.
+
+2. **Term Frequency-Inverse Document Frequency (TF-IDF):**
+   Represent each document based on the uniqueness of words in the corpus.
+
+3. **Word2Vec:**
+   Use word embeddings trained on large text corpora to represent words in a high-dimensional space.
+   
+4. **GloVe:**
+   Global Vectors for Word Representation, a word embedding technique that learns from co-occurrence statistics.
+   
+5. **ELMo:**
+   Embeddings from Language Models, contextual word representations that capture the meaning of words in context.
+
+C) Modelling Techniques:
+   Once text data is represented numerically, various machine learning and deep learning models can be applied for tasks such as classification, clustering, or sequence modeling.
+
 
 
