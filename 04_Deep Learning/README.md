@@ -1,27 +1,27 @@
 # Deep Learning Series: Introduction to Deep Learning
 
----
-
-**Author:** Dhanoop Karunakaran  
-**Published in:** Intro to Artificial Intelligence
-
----
-
-## Overview
-
-Welcome to the first article in our Deep Learning Series! In this series, we'll dive into the fascinating world of deep learning, exploring its core concepts and applications. Join us on this journey as we unravel the mysteries behind artificial neural networks and their impact on the modern world.
+Welcome to the first article in our Deep Learning Series! In this series, we'll explore the fascinating world of deep learning and how it's revolutionizing various industries. Let's dive in!
 
 ## Deep Learning
 
-Deep learning, a subset of machine learning, is revolutionizing various industries with its ability to mimic the human brain's structure and function through artificial neural networks. Let's delve into the basics:
-
-> "Deep learning is a sub-field of machine learning dealing with algorithms inspired by the structure and function of the brain called artificial neural networks."  
-> *— Dhanoop Karunakaran*
+Deep learning, a sub-field of machine learning, is inspired by the structure and function of the brain. It utilizes artificial neural networks to mimic the way our brains process information. Deep learning algorithms excel at tasks involving large amounts of data and are continuously advancing at a rapid pace.
 
 ### Linear and Logistic Regression
 
-Linear and logistic regression serve as the foundation of deep learning. Here's a glimpse:
+Linear regression is a statistical method used to analyze relationships between continuous variables. It finds the best-fit line to predict outcomes based on input features. On the other hand, logistic regression is employed for binary classification tasks, determining the probability of a certain outcome.
 
-```python
-# Linear Regression
-# Statistical method for analyzing relationships between continuous variables.
+### Activation Functions
+
+Activation functions play a crucial role in neural networks by determining the output of each node. Popular activation functions include the Heaviside step function and the sigmoid function, which introduce non-linearity to the model.
+
+### Weights and Biases
+
+Weights and biases are the adjustable parameters of neural networks. They are optimized during the training process to minimize prediction errors, allowing the model to make more accurate predictions.
+
+### Neural Networks
+
+Neural networks consist of interconnected neurons organized in layers. By combining multiple layers and activation functions, neural networks can learn complex patterns from data, enabling them to solve a wide range of tasks with high accuracy.
+
+### Learning Process
+
+The learning process involves adjusting weights and biases based on errors in predictions. Optimization algorithms like gradient descent are used to iteratively update the model parameters, gradually improving its performance.
