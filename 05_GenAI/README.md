@@ -30,7 +30,8 @@ This is the technology that powered the virtual assistants born in the first dec
 
 So that’s how we came to Generative AI today, which can be seen as a subset of deep learning.
 
-![AI, ML, DL and Generative AI](./images/AI-diagram.png?WT.mc_id=academic-105485-koreyst)
+![image](https://github.com/Dhananjay-97/GenAI/assets/125077594/f7c14045-b7ec-4e58-858c-430f660ac9fc)
+
 
 After decades of research in the AI field, a new model architecture – called *Transformer* – overcame the limits of RNNs, being able to get much longer sequences of text as input. Transformers are based on the attention mechanism, enabling the model to give different weights to the inputs it receives, ‘paying more attention’ where the most relevant information is concentrated, regardless of their order in the text sequence.
 
@@ -41,8 +42,6 @@ Most of the recent generative AI models – also known as Large Language Models 
 In the next chapter we are going to explore different types of Generative AI models, but for now let’s have a look at how large language models work, with a focus on OpenAI GPT (Generative Pre-trained Transformer) models.
 
 * **Tokenizer, text to numbers**: Large Language Models receive a text as input and generate a text as output. However, being statistical models, they work much better with numbers than text sequences. That’s why every input to the model is processed by a tokenizer, before being used by the core model. A token is a chunk of text – consisting of a variable number of characters, so the tokenizer's main task is splitting the input into an array of tokens. Then, each token is mapped with a token index, which is the integer encoding of the original text chunk.
-
-![Example of tokenization](./images/tokenizer-example.png?WT.mc_id=academic-105485-koreyst)
 
 * **Predicting output tokens**: Given n tokens as input (with max n varying from one model to another), the model is able to predict one token as output. This token is then incorporated into the input of the next iteration, in an expanding window pattern, enabling a better user experience of getting one (or multiple) sentence as an answer. This explains why, if you ever played with ChatGPT, you might have noticed that sometimes it looks like it stops in the middle of a sentence.
 
@@ -60,33 +59,13 @@ The input of a large language model is known as prompt, while the output is know
 
     1. Summarization of an article, book, product reviews and more, along with extraction of insights from unstructured data.
     
-    ![Example of summarization](./images/summarization-example.png?WT.mc_id=academic-105485-koreyst)
-
-    <br>
-    
     2. Creative ideation and design of an article, an essay, an assignment or more.
     
-    ![Example of creative writing](./images/creative-writing-example.png?WT.mc_id=academic-105485-koreyst)
-
-    <br>
-    
 * A **question**, asked in the form of a conversation with an agent.
-  
-![Example of conversation](./images/conversation-example.png?WT.mc_id=academic-105485-koreyst)
-
-<br>
 
 * A chunk of **text to complete**, which implicitly is an ask for writing assistance.
-   
-![Example of text completion](./images/text-completion-example.png?WT.mc_id=academic-105485-koreyst)
-
-<br>
 
 * A chunk of **code** together with the ask of explaining and documenting it, or a comment asking to generate a piece of code performing a specific task.
-
-![Coding example](./images/coding-example.png?WT.mc_id=academic-105485-koreyst)
-
-<br>
 
 The examples above are quite simple and don’t want to be an exhaustive demonstration of Large Language Models capabilities. They just want to show the potential of using generative AI, in particular but not limited to educational context.
 
