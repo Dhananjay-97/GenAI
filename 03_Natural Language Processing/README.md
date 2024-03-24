@@ -39,3 +39,25 @@ Natural Language Processing (NLP) is a branch of data science dedicated to analy
    - Applications include social media analytics, risk management, and cybercrime protection.
    ![image](https://github.com/Dhananjay-97/GenAI/assets/125077594/749ed219-ef58-47e9-9914-1a72a90c5385)
 
+Different Techniques used in Natural Language Processing:
+
+1. **Part of Speech Tagging (POS):**
+   - POS Tagging involves marking up words in a text with their corresponding part of speech (nouns, verbs, adjectives, etc.), based on both their definition and context.
+
+2. **Named Entity Recognition (NER):**
+   - NER identifies real-world named entities such as person names, locations, and organizations from a given piece of text. For example, identifying "Sergey Brin" as a person and "Google Inc." as an organization in a sentence.
+
+3. **Topic Modeling:**
+   - Topic Modeling automatically identifies topics present in a text corpus by deriving hidden patterns among words in an unsupervised manner. It is useful for organizing large datasets into meaningful categories.
+   
+   - **Algorithms for Topic Modeling:**
+     a. Latent Dirichlet Allocation (LDA): Assumes documents are produced from a mixture of topics and generates words based on their probability distribution.
+     b. Latent Semantic Analysis (LSA): Constructs a matrix of word counts per paragraph and uses singular value decomposition to reduce dimensionality while preserving similarity structure.
+     
+4. **Language Modeling:**
+   - Language Modeling involves predicting the probability of a sequence of words, which is crucial for tasks like text summarization, machine translation, and chatbots.
+   
+5. **Sequence Modeling:**
+   - Sequence Modeling, a technique in deep learning, is used to process sequence data such as music lyrics, sentence translation, and chatbot responses. Since natural language is inherently sequential, this technique is extensively used in NLP.
+
+
