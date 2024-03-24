@@ -16,6 +16,16 @@ We have created a **[Course Setup](./00-course-setup/README.md?WT.mc_id=academic
 
 Don't forget to star [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
 
+## 📈 Expectations
+
+1. **Study**: Grasp concepts.
+2. **Practice**: Implement solutions on your own.
+3. **Commitment**: Allocate 4 hours/week for 2 months.
+
+## 🙋‍♂️ Need Help?
+
+Don't hesitate to reach out for assistance! Feel free to ask questions beyond the course scope too! 🤔💬
+
 ## 📂 Each lesson includes:
 
 - A written lesson located in the README
@@ -35,12 +45,3 @@ Don't forget to star [star (🌟) this repo](https://docs.github.com/en/get-star
 - Feature Engineering
 - Project: NYC Taxi Trip Duration Prediction
 
-## 📈 Expectations
-
-1. **Study**: Grasp concepts.
-2. **Practice**: Implement solutions on your own.
-3. **Commitment**: Allocate 4 hours/week for 2 months.
-
-## 🙋‍♂️ Need Help?
-
-Don't hesitate to reach out for assistance! Feel free to ask questions beyond the course scope too! 🤔💬
