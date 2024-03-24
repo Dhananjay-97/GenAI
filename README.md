@@ -11,10 +11,6 @@ Learn the fundamentals of building Generative AI applications with the machine l
 - Access to the [Azure OpenAI Service](https://azure.microsoft.com/products/ai-services/openai-service?WT.mc_id=academic-105485-koreyst) **OR** [OpenAI API](https://platform.openai.com/docs/quickstart?context=python?WT.mc_id=academic-105485-koreyst)
 - Basic knowledge of Python is helpful.
 
-We have created a **[Course Setup](./00-course-setup/README.md?WT.mc_id=academic-105485-koreyst)** lesson to help you with setting up your developement environment.
-
-Don't forget to star [star (🌟) this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) to find it easier later.
-
 ## 📈 Expectations
 
 1. **Study**: Grasp concepts.
