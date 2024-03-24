@@ -12,7 +12,8 @@ Learn Python basics, machine learning essentials, model building, and feature en
 - Setting up your system
 - Python Essentials
 - Data Manipulation & Visualization
-- Machine Learning Lifecycle
+- Machine Learning Lifecycle![IMG_3983](https://github.com/Dhananjay-97/GenAI/assets/125077594/1990a1f4-5673-4a95-b699-ef30e18141bb)
+
 - Building Predictive Models
 - Model Evaluation & Selection
 - Feature Engineering
