@@ -60,6 +60,9 @@ Machine learning employs mathematical and statistical approaches to enable compu
 5. **Validate Model**: Test the model's performance with the remaining data.
 6. **Iterate**: Based on results, refine the model if necessary.
 
+![image](https://github.com/Dhananjay-97/GenAI/assets/125077594/69e0b234-69d6-46dc-a17c-7acffa8e8c2e)
+
+
 **Types of Machine Learning Algorithms:**
 
 1. **Supervised Machine Learning Algorithms**
@@ -80,18 +83,54 @@ Machine learning employs mathematical and statistical approaches to enable compu
 
 - Focuses on maximizing rewards by learning from feedback.
 - Used in game theory and simulation optimization methods.
+![image](https://github.com/Dhananjay-97/GenAI/assets/125077594/07f131a1-ccfb-4880-b8b8-91ce089d3996)
 
 **List of Machine Learning Algorithms (Categories):**
 
-- Regression, Instance-based Learning, Regularization, Decision Tree, Bayesian, Kernel-based, Clustering, Association Rule Learning, Neural Networks, Deep Learning, Dimensionality Reduction, and Integrated Algorithms.
+**Regression Algorithms:**
+- Linear regression
+- Logistic regression
 
-**Machine Learning Applications:**
+**Instance-based Learning Algorithms:**
+- K — proximity algorithm (kNN)
 
-- Finance (Risk Management, Fraud Detection), Customer Service, Technology (Email Filtering), Healthcare, Automobile (Pattern Recognition), Telecoms (Facial Recognition).
+**Regularization Algorithms:**
+- Ridge Regression
+- LASSO (Least Absolute Shrinkage and Selection Operator)
 
-**Conclusion:**
+**Decision Tree Algorithms:**
+- Classification and Regression Tree (CART)
+- ID3 algorithm (Iterative Dichotomiser 3)
+- C4.5 and C5.0
+- Random Forest
+- Gradient Boosting Machine (GBM)
 
-Machine learning offers a powerful framework for making sense of data and driving innovation across industries. Understanding its concepts and algorithms is crucial for leveraging its potential effectively.
+**Bayesian Algorithms:**
+- Naive Bayes
+- Gaussian Bayes
+- Polynomial Naive Bayes
+- Bayesian Belief Network
 
----
+**Kernel-based Algorithms:**
+- Support Vector Machine (SVM)
+- Radial Basis Function (RBF)
+- Linear Discriminate Analysis (LDA)
+
+**Clustering Algorithms:**
+- K — mean
+- Hierarchical clustering
+
+**Neural Networks:**
+- Backpropagation algorithm (BP)
+- Radial Basis Function Network (RBFN)
+
+**Deep Learning:**
+- Convolutional Neural Network (CNN)
+- Recurrent neural network (RNN, LSTM)
+- Stacked Auto-Encoder
+
+**Dimensionality Reduction Algorithms:**
+- Principal Component Analysis (PCA)
+- Flexible Discriminant Analysis (FDA)
+
 
