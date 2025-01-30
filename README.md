@@ -24,7 +24,7 @@ Don't hesitate to reach out for assistance! Feel free to ask questions beyond th
 ## 📂 Each lesson includes:
 
 - A written lesson located in the README
-- Python and TypeScript Code Samples supporting Azure OpenAI and OpenAI API
+- Python Code Samples supporting Azure OpenAI and OpenAI API
 - Links to extra resources to continue your learning
 
 ## 📚 Course Curriculum
